@@ -5,4 +5,5 @@ while i <= 10:
     print(n*i)
     i+=1
 
-print("loop ended") 
+print("thankyou")
+ 
